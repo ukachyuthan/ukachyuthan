@@ -2,7 +2,7 @@
 - 👀 I’m interested in human-robot interaction, robot autonomy, deep learning and reinforcement learning
 - 📫 To reach me on questions regarding my research: aunnikrishnan@wpi.edu; for questions regarding anything else: achyuthan@dopltechnologies.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Run The Jewels are my favorite hip-hop duo
+- ⚡ Fun fact: I can speak German (somewhat)
 
 <!---
 achyuthanuk/achyuthanuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
