@@ -2,7 +2,7 @@
 - 👀 I’m interested in human-robot interaction, robot autonomy, deep learning and reinforcement learning
 - 📫 To reach me on questions regarding my research: aunnikrishnan@wpi.edu; for questions regarding anything else: achyuthan@dopltechnologies.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Alter Bridge is my favorite band.
+- ⚡ Fun fact: Alter Bridge is my favorite band. Well either them or Rush.
 
 <!---
 achyuthanuk/achyuthanuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
