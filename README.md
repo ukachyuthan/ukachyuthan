@@ -2,7 +2,7 @@
 - 👀 I’m interested in human-robot interaction, robot autonomy, deep learning and reinforcement learning
 - 📫 To reach me on questions regarding my research: aunnikrishnan@wpi.edu; for questions regarding anything else: achyuthan@dopltechnologies.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I know the NATO Phonetic alphabet (alphab, bravo, charlie,.....)
+- ⚡ Fun fact: My favorite wrestler is Edge from WWE
 
 <!---
 achyuthanuk/achyuthanuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
