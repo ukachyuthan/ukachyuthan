@@ -2,7 +2,7 @@
 - 👀 I’m interested in human-robot interaction, robot autonomy, deep learning and reinforcement learning
 - 📫 To reach me on questions regarding my research: aunnikrishnan@wpi.edu; for questions regarding anything else: achyuthan@dopltechnologies.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Been on a Gojira binge of late
+- ⚡ Fun fact: I dislike the Boston Celtics. Felt important enough to mention it here
 
 <!---
 achyuthanuk/achyuthanuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
