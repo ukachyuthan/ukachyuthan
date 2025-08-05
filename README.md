@@ -2,7 +2,7 @@
 - 👀 I’m interested in human-robot interaction, robot autonomy, deep learning and reinforcement learning
 - 📫 To reach me on questions regarding my research: aunnikrishnan@wpi.edu; for questions regarding anything else: achyuthan@dopltechnologies.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Shawshank Redemption is top 5 favorite movie
+- ⚡ Fun fact: Ghost in the Shell and Neon Genesis Evangelion are essential viewing
 <!---
 achyuthanuk/achyuthanuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
