@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Achyuthan Unni Krishnan (@achyuthanuk)
+- 👋 Hi, I’m Achyuthan Unni Krishnan (@ukachyuthan)
 - 👀 I’m interested in human-robot interaction, robot autonomy, deep learning and reinforcement learning
 - 📫 To reach me on questions regarding my research: aunnikrishnan@wpi.edu; for questions regarding anything else: achyuthan@dopltechnologies.com
 - 😄 Pronouns: He/Him
