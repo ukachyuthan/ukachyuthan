@@ -2,4 +2,4 @@
 - 👀 I’m interested in human-robot interaction, robot autonomy, deep learning and reinforcement learning
 - 📫 To reach me on questions regarding my research: aunnikrishnan@wpi.edu; for questions regarding anything else: achyuthan@dopltechnologies.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Like to play the guitar and recently purchased a 7 string to learn some Korn
+- ⚡ Fun fact: Play a lot of DOTA 2. Spectre is my favorite hero
