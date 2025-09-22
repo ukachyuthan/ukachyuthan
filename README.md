@@ -2,4 +2,4 @@
 - 👀 I’m interested in human-robot interaction, robot autonomy, deep learning and reinforcement learning
 - 📫 To reach me on questions regarding my research: aunnikrishnan@wpi.edu; for questions regarding anything else: achyuthan@dopltechnologies.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Playing a lot of Borderrlands 4 right now
+- ⚡ Fun fact: Allen Iverson is my favorite basketball player
