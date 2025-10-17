@@ -3,4 +3,3 @@
 - 📫 To reach me on questions regarding my research: aunnikrishnan@wpi.edu; for questions regarding anything else: achyuthan@dopltechnologies.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I support Chennai Super Kings in the IPL
-- Have a good day :)
