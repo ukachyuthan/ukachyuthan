@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Achyuthan Unni Krishnan (@ukachyuthan)
 - 👀 I’m interested in human-robot interaction, robot autonomy, deep learning and reinforcement learning
-- 📫 To reach me on questions regarding my research: aunnikrishnan@wpi.edu; for questions regarding anything else: achyuthan@dopltechnologies.com
+- 📫 To reach me on questions regarding my research or professional experience: aunnikrishnan@wpi.edu;
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Recently watched Predator: Badlands. Entertaining movie.
